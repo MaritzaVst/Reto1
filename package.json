@@ -1,0 +1,25 @@
+{
+  "name": "reto1",
+  "version": "1.0.0",
+  "description": "Reto de la semana 1 - CUP 2016",
+  "main": "posts.js",
+  "dependencies": {
+    "lodash": "^4.0.0",
+    "faker": "^3.0.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaritzaVst/Reto1.git"
+  },
+  "author": "Maritza Sinti Tafur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaritzaVst/Reto1/issues"
+  },
+  "homepage": "https://github.com/MaritzaVst/Reto1#readme"
+}
